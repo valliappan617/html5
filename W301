@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+button {
+  display: inline-block;
+}
+</style>
+</head>
+<body>
+
+<h2>HTML Forms</h2>
+
+<fieldset>
+<legend>Personal information:</legend>
+
+First name:<br>
+<input type="text" name="firstname" value="Mickey"><br><br>
+
+Last name:<br>
+<input type="text" name="lastname" value="Mouse"><br><br>
+
+Email ID:<br>
+<input type="text" name="email" value="ramesh@gmail.com"><br><br>
+
+Mobile Number:<br>
+<input type="text" name="phone" value="+1-957-428-1280"><br><br>
+
+<input type="submit" name="submit"><br>
+<input type="button" name="cancel" value="Cancel"><br>
+
+</fieldset>
+</body>
+</html>
+
+
